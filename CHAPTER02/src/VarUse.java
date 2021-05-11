@@ -1,4 +1,3 @@
-
 public class VarUse {
 
 	public static void main(String[] args) {
@@ -7,8 +6,8 @@ public class VarUse {
 		double d = 3.14;
 		char c = 'A';
 		
-		System.out.println("Á¤¼ö µ¥ÀÌÅÍ k1 = " + k1 + ", k2 = " + k2);
-		System.out.println("½Ç¼ö µ¥ÀÌÅÍ d = " + d);
-		System.out.println("¹®ÀÚ µ¥ÀÌÅÍ c = " + c);
+		System.out.println("ì •ìˆ˜ ë°ì´í„° k1 = " + k1 + ", k2 = " + k2);
+		System.out.println("ì‹¤ìˆ˜ ë°ì´í„° d = " + d);
+		System.out.println("ë¬¸ì ë°ì´í„° c = " + c);
 	}
 }
